@@ -1,0 +1,19 @@
+title: Fun in the REPL
+description: Fun in the Afternoon meets S-REPLS in Bristol
+
+url: https://plrg-bristol.github.io/fir
+
+# Header Option
+# header: large
+
+sass:
+    style: compressed
+
+markdown: kramdown
+highlighter: rouge
+
+social:
+    github: plrg-brisol
+    twitter: PLRG_bristol
+    email: pl-rg@bristol.ac.uk
+
