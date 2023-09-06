@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Long Haul
+title: Fun in the REPL
 ---
 
 <p style="text-align:right">
