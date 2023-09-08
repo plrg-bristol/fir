@@ -5,19 +5,19 @@ title: Fun in the REPL
 
 <p style="text-align:right">
 <i>Fun in the Afternoon / S-REPLS 13</i><br>
-<i>Wednesday 1st November, <a href="https://engine-shed.co.uk" target="_blank">Engine Shed</a>, <a href="https://goo.gl/maps/4UMxDXYtNHgmGscm9" target="_blank">Bristol BS1 6QH</a></i>
+<i>Wednesday 1st November, 10am - 5pm, <a href="https://engine-shed.co.uk" target="_blank">Engine Shed</a>, <a href="https://goo.gl/maps/4UMxDXYtNHgmGscm9" target="_blank">Bristol BS1 6QH</a></i>
 </p>
 
-*S-REPLS* is a regular meeting, based in the south of England, for anyone with an interest in the semantics and implementation of programming languages.  *Fun in the Afternoon* is a seminar on functional programming and related topics.  This site describes the arrangements for a joint meeting of these two communities at Bristol Engine Shed in November 2023.
+*<a href="https://srepls.github.io" target="_blank">S-REPLS</a>* is a regular meeting, based in the south of England, for anyone with an interest in the semantics and implementation of programming languages.  *Fun in the Afternoon* is a seminar on functional programming and related topics.  This site describes the arrangements for a joint meeting of these two communities at Bristol Engine Shed in November 2023.
 
 ### Keynotes
 
  * *Bob Atkey*, University of Strathclyde
  * *Ákos Hajdu*, Meta/WhatsApp
- 
+
 ### Attendance
 
-The meeting will take place from 10am to 5pm on Wednesday 1st of November in The Engine Shed, Bristol BS1 6QH.  Attendance is free of charge, and both refreshments and lunch will be provided.  We ask that you sign up using the following form in order to estimate catering requirements.
+The meeting will take place from 10am to 5pm on Wednesday 1st of November in <a href="https://engine-shed.co.uk/" target="_blank">Engine Shed</a>, <a href="https://goo.gl/maps/4UMxDXYtNHgmGscm9" target="_blank">Bristol BS1 6QH</a>.  Attendance is free of charge, and both refreshments and lunch will be provided.  We ask that you sign up using the following form in order to estimate catering requirements.
 
 ### Travel
 
