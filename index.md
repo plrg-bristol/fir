@@ -28,4 +28,4 @@ There is parking in Bristol Temple Meads station car park, though it is <a href=
 ### Organisers
 
 ![plrg logo](assets/img/logo-acronym-only-trans.png){:style="width:120px; float:left; margin:0 20px 0 20px;"}
-The event is organised by the <a href="https://plrg-bristol.github.io/" target="_blank">Programming Languages Research Group</a> (PLRG) at the University of Bristol.  For any queries, please contact: <a href="https://seis.bristol.ac.uk/~tz20861/" target="_blank">Alex Kavvos</a> or <a href="sjrsay.github.io" target="_blank">Steven Ramsay</a>.
+The event is organised by the <a href="https://plrg-bristol.github.io/" target="_blank">Programming Languages Research Group</a> (PLRG) at the University of Bristol.  For any queries, please contact: <a href="https://seis.bristol.ac.uk/~tz20861/" target="_blank">Alex Kavvos</a> or <a href="https://sjrsay.github.io" target="_blank">Steven Ramsay</a>.
