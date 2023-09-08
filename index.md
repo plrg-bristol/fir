@@ -10,6 +10,11 @@ title: Fun in the REPL
 
 *S-REPLS* is a regular meeting, based in the south of England, for anyone with an interest in the semantics and implementation of programming languages.  *Fun in the Afternoon* is a seminar on functional programming and related topics.  This site describes the arrangements for a joint meeting of these two communities at Bristol Engine Shed in November 2023.
 
+### Keynotes
+
+ * *Bob Atkey*, University of Strathclyde
+ * *Ákos Hajdu*, Meta/WhatsApp
+ 
 ### Attendance
 
 The meeting will take place from 10am to 5pm on Wednesday 1st of November in The Engine Shed, Bristol BS1 6QH.  Attendance is free of charge, and both refreshments and lunch will be provided.  We ask that you sign up using the following form in order to estimate catering requirements.
