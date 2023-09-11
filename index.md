@@ -17,7 +17,19 @@ title: Fun in the REPL
 
 ### Attendance
 
-The meeting will take place from 10am to 5pm on Wednesday 1st of November in <a href="https://engine-shed.co.uk/" target="_blank">Engine Shed</a>, <a href="https://goo.gl/maps/4UMxDXYtNHgmGscm9" target="_blank">Bristol BS1 6QH</a>.  Attendance is free of charge, and both refreshments and lunch will be provided.  We ask that you sign up using the following form in order to estimate catering requirements.
+The meeting will take place from 10am to 5pm on Wednesday 1st of November in <a href="https://engine-shed.co.uk/" target="_blank">Engine Shed</a>, <a href="https://goo.gl/maps/4UMxDXYtNHgmGscm9" target="_blank">Bristol BS1 6QH</a>.  
+
+Please sign up at <a href="https://www.eventbrite.com/e/717109883967/" target="_blank">EventBrite</a> if you wish to attend.
+
+Attendance is free of charge, and both refreshments and lunch will be provided, but we need you to sign because places are limited.
+
+### Proposing a Talk
+
+Talks are typically 20-30 minutes long and should be given in person.  We invite proposals for talks on any topic related to programming languages.  Subjects related to functional programming, and submissions from industrial professionals and junior researchers (postdocs and students) are especially welcome.
+
+Please e-mail Alex Kavvos and Steven Ramsay on <pl-rg@bristol.ac.uk> with the subject "FITR talk proposal", giving a draft title and an abstract by the end of:
+ 
+  * Mon, 2 October 2023
 
 ### Travel
 
