@@ -21,7 +21,7 @@ The meeting will take place from 10am to 5pm on Wednesday 1st of November in <a 
 
 Please sign up at <a href="https://www.eventbrite.com/e/717109883967/" target="_blank">EventBrite</a> if you wish to attend.
 
-Attendance is free of charge, and both refreshments and lunch will be provided, but we need you to sign because places are limited.
+Attendance is free of charge, and both refreshments and lunch will be provided, but we need you to sign up because places are limited and catering requirements must be estimated.
 
 ### Proposing a Talk
 
