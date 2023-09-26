@@ -37,7 +37,10 @@ Engine shed is adjacent to Bristol Temple Meads railway station.  Great Western 
 
 There is parking in Bristol Temple Meads station car park, though it is <a href="https://www.apcoa.co.uk/parking-in/bristol/bristol-temple-meads/">expensive</a>.
 
-### Organisers
+### Organisers & Sponsors
 
-![plrg logo](assets/img/logo-acronym-only-trans.png){:style="width:120px; float:left; margin:0 20px 0 20px;"}
+![vetss logo](assets/img/VeTSS_logo.png){:style="width:200px; float:left;margin:0 20px 0 20px;"}
+This event is made possible by the generous sponsorship of the [UK Research Institute on Verified Trustworthy Software Systems](https://vetss.org.uk/).
+
+![plrg logo](assets/img/logo-acronym-only-trans.png){:style="width:200px; float:left; margin:0 20px 0 20px;"}
 The event is organised by the <a href="https://plrg-bristol.github.io/" target="_blank">Programming Languages Research Group</a> (PLRG) at the University of Bristol.  For any queries, please contact: <a href="https://seis.bristol.ac.uk/~tz20861/" target="_blank">Alex Kavvos</a> or <a href="https://sjrsay.github.io" target="_blank">Steven Ramsay</a>.
