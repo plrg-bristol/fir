@@ -1,0 +1,23 @@
+Coinduction in Cubical Agda
+
+In intensional Type Theory (pre-HoTT) there is an annoying asymmetry:
+while inductive proofs boil down to using pattern matching and
+structural recursion via the proposition-as-types explanation,
+coinduction is not provable and has to be encoded via setoids or
+introduced as an axiom destroying the computational adequacy of type
+theory.
+
+Here cubical type theory ala cubical agda offers a nice symmetry: as
+induction is provable from pattern-matching and structural recursion;
+coinduction is provable from copattern-matching and guarded
+corecrursion. However, once we try to dualize some interesting examples,
+eg using conatural numbers, things start to get a bit hairy. We need
+to be careful to expose the mutual structure of CoNat which is
+actually coinductive-inductive but we run into additional problems when
+using transitivity as is required to prove commutativity of addition
+on conaturals.
+
+The goal of my talk is first of all to explain the symmetry of
+induction and coinduction in cubical agda but also highlight the issues
+which are arising. This is open eded, I don't really have a satisfying
+solution in the moment, but will sketch some possible approaches. 

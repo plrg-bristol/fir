@@ -1,0 +1,5 @@
+Visualising program dataflow with string diagrams
+
+String diagrams for monoidal closed categories have been proposed as a form of abstract syntax for the representation of programs. Two programs are identified by having the same representation in string diagrams, in the form of a hierarchical hypergraph. Moreover, semantic-preserving program transformations can be given as an equational theory of string diagram rewriting. Such a theory affords a two-dimensional syntax, and allows for a more topological presentation of complex program transformations (e.g. reverse-mode automatic differentiation), which is key to proving correctness. In this talk, we present sd-visualiser: a tool for interactive graphical analysis of large real-world programs rooted in string diagrammatic foundations, based on novel techniques for rendering string diagrams as graphs. At a glance, nodes represent operations and wires represent dataflow. We show how our techniques allow for a completely graphical approach to verify the correctness of program transformations.
+
+This is joint work with Dan Ghica, Alex Rice, and Calin Tataru.
