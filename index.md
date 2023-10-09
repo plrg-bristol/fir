@@ -26,7 +26,7 @@ title: Fun in the REPL
     <ul>
       <li>10:00 : <a target="_blank" href="assets/abstracts/frohlich.txt">Embedding by Unembedding</a><br/>&emsp;&emsp;&emsp; Sam Frohlich, University of Bristol</li>
       <li>10:25 : <a target="_blank" href="">Brief Introduction to Isabelle's Code Generator</a><br/>&emsp;&emsp;&emsp; Achim Brucker, University of Exeter</li>
-      <li>10:50 : <a target="_blank" href="assets/abstracts/schaefer.txt">Algebraic Data Types for Datalog</a><br/>&emsp;&emsp;&emsp; Max Schaefer, GitHub/Next</li>
+      <li>10:50 : <a target="_blank" href="assets/abstracts/schaefer.txt">Algebraic Data Types for Datalog</a><br/>&emsp;&emsp;&emsp; Max Schaefer, GitHub</li>
     </ul>
   </td>
 </tr>
