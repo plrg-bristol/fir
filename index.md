@@ -13,6 +13,8 @@ title: Fun in the REPL
 ### Keynotes
 
 * Bob Atkey, University of Strathclyde
+    - *Data Types with Negation*
+    - Inductive data types are a foundational tool for representing data and knowledge in dependently typed programming languages. The user defines an inductive data type by declaring constructors for constructing positive evidence. For example, evidence of a path through some graph, or the parse tree as evidence that a context-free grammar accepts some input. But in some cases, positive evidence is not enough. What if we want evidence that no path exists? or we want to represent parse trees of backtracking parsers, where alternatives are only tried in the case when another parse didn't work? In this talk, I will explain how the use of negative evidence arises in many places in programming languages, describe a way of extending inductive data types with negation, and how we can understand them as a complex interaction of inductive and coinductive types.
 * Ákos Hajdu, Meta/WhatsApp
     - *Static and dynamic code analyses for WhatsApp server*
     - This talk gives an overview of the code analysis techniques that regularly scan WhatsApp server's Erlang codebase. We focus on a dynamic analysis based on traffic generation and static analyses based on symbolic execution and abstract interpretation. The analyses are capable of detecting pre-defined issues (such as crashes), as well as user-defined properties (such as taint analysis). We report on our experience and the challenges of deploying these analyzers on Erlang code at an industrial scale, supporting the messaging app used everyday by over 2 billion people.
