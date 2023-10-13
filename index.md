@@ -111,4 +111,4 @@ There is parking in Bristol Temple Meads station car park, though it is <a href=
 This event is made possible by the generous sponsorship of the [UK Research Institute on Verified Trustworthy Software Systems](https://vetss.org.uk/).
 
 ![plrg logo](assets/img/logo-acronym-only-trans.png){:style="width:200px; float:left; margin:0 20px 0 20px;"}
-The event is organised by the <a href="https://plrg-bristol.github.io/" target="_blank">Programming Languages Research Group</a> (PLRG) at the University of Bristol.  For any queries, please contact: <a href="https://seis.bristol.ac.uk/~tz20861/" target="_blank">Alex Kavvos</a> or <a href="https://sjrsay.github.io" target="_blank">Steven Ramsay</a>.
+The event is organised and part funded by the <a href="https://plrg-bristol.github.io/" target="_blank">Programming Languages Research Group</a> (PLRG) at the University of Bristol.  For any queries, please contact: Alex Kavvos and Steven Ramsay on pl-rg@bristol.ac.uk.
