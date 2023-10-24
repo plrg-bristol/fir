@@ -19,7 +19,7 @@ title: Fun in the REPL
     - *Static and dynamic code analyses for WhatsApp server*
     - This talk gives an overview of the code analysis techniques that regularly scan WhatsApp server's Erlang codebase. We focus on a dynamic analysis based on traffic generation and static analyses based on symbolic execution and abstract interpretation. The analyses are capable of detecting pre-defined issues (such as crashes), as well as user-defined properties (such as taint analysis). We report on our experience and the challenges of deploying these analyzers on Erlang code at an industrial scale, supporting the messaging app used everyday by over 2 billion people.
 
-### Programme (TBC)
+### Programme
 
 <table>
 <tr><td style="min-width:15ex">09:00 - 09:50</td><td>Arrival</td></tr>
