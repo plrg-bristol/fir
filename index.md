@@ -50,7 +50,7 @@ title: Fun in the REPL
   <td>Contributed Talks 2<br/>
     <ul>
       <li>14:45 : <a target="_blank" href="https://www.microsoft.com/en-us/research/publication/co-audit-tools-to-help-humans-double-check-ai-generated-content/">Co-audit: tools to help humans double check AI-generated content</a><br/>&emsp;&emsp;&emsp; Andy Gordon, Microsoft Research</li>
-      <li>15:15 : <a target="_blank" href="assets/abstracts/altenkirch.txt">Coinduction in Cubical Agda</a><br/>&emsp;&emsp;&emsp; Thorsten Altenkirch, University of Nottingham</li>
+      <li>15:10 : <a target="_blank" href="assets/abstracts/altenkirch.txt">Coinduction in Cubical Agda</a><br/>&emsp;&emsp;&emsp; Thorsten Altenkirch, University of Nottingham</li>
       <li>15:35 : <a target="_blank" href="assets/abstracts/marshall.txt">Linearity, Uniqueness, Ownership: An Entente Cordiale</a><br/>&emsp;&emsp;&emsp; Daniel Marshall, University of Kent</li>
     </ul>
   </td>
