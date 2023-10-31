@@ -62,7 +62,7 @@ title: Fun in the REPL
   <td style="vertical-align:top">16:30 - 17:20</td>
   <td>Contributed Talks 3<br/>
     <ul>
-      <li>16:30 : <a target="_blank" href="assets/abstracts/thatcher.pdf">A Functional Programming Language for Interaction Nets</a><br/>&emsp;&emsp;&emsp; Marc Thatcher, University of Sussex</li>
+      <li>16:30 : <a target="_blank" href="assets/abstracts/thatcher.pdf">Parallel Functional Programming with Interaction Nets</a><br/>&emsp;&emsp;&emsp; Marc Thatcher, University of Sussex</li>
       <li>16:55 : <a target="_blank" href="assets/abstracts/milovancevic.txt">Proving and Disproving Equivalence of Fun. Prog. Assignments</a><br/>&emsp;&emsp;&emsp; Dragana Milovancevic, EPFL</li>
     </ul>
   </td>
